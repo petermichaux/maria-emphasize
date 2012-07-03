@@ -37,7 +37,7 @@ This implementation is very basic. I should work in all browsers ever made.
 Dependencies
 ------------
 
-None.
+Just [Maria](https://github.com/petermichaux/maria).
 
 
 Build
