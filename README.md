@@ -31,7 +31,7 @@ Ready.
 Browser Support
 ---------------
 
-This implementation is very basic. I should work in all browsers ever made.
+This implementation is very basic. It should work in all browsers ever made.
 
 
 Dependencies
