@@ -12,6 +12,8 @@ build: $(SRCS)
 	echo "define(['maria-amd'], function(maria) { // AMD" > build/maria-emphasize-amd.js
 	cat build/maria-emphasize.js >> build//maria-emphasize-amd.js
 	echo "\n}); // AMD" >> build/maria-emphasize-amd.js
+	cp README.md build
+	cp LICENSE build
 
 clean:
 	rm -rf build
