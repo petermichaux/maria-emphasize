@@ -21,8 +21,6 @@ Downloads
 
 See http://peter.michaux.ca/downloads/maria-emphasize/ for production ready builds.
 
-Install via Bower with `bower install maria-emphasize`
-
 
 Status
 ------
